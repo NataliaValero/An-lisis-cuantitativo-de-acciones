@@ -1,4 +1,4 @@
-# An-lisis-cuantitativo-de-acciones
+# Analisis-cuantitativo-de-acciones
 Análisis cuantitativo de GOOG, META y TWTR
 
 En este proyecto se realizó un análisis cuantitativo de acciones con información extraída de la API de yfinance. El análisis consiste en cuatro partes:
